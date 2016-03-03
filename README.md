@@ -1,2 +1,2 @@
 # myFirstRepository
-Bt is a test repository to gitHub investigation proccess
+It is a test repository to gitHub investigation process
